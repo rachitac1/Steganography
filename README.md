@@ -5,7 +5,7 @@ Features -
 ✅ Attack Resistance – Designed to withstand steganalysis and hacking attempts.
 ✅ User-Friendly Implementation – Simple execution with clear documentation.
 
-Project Structure 📂
+Project Structure -
 📄 Presentation (PPT) – Explains the methodology, implementation, and results.
 💻 Code – Core implementation of the steganography system.
 🔍 Object File – Compiled object.
