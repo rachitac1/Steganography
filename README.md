@@ -1,7 +1,8 @@
 Rachita Chakraborty - Narula Institute of Technology
 
 This project is part of my AICTE internship on cybersecurity, focusing on steganography.
-I've used - python3, cv2 library, 
+I've used - python3, cv2 library, os and string library.
+
 Features -
 ✅ Secure Encryption – Protects hidden data using strong cryptographic algorithms.
 ✅ Image Quality Preservation – Ensures minimal distortion after embedding data.
